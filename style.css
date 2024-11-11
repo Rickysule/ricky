@@ -6,6 +6,37 @@ body {
     text-align: center;
     font-size: medium;
 }
+h1{
+    text-align: center;
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+    
+}
+form{
+    height: 250pxpx;
+    width: 300px;
+    padding: 30px;
+    border: 3px;
+    display: inline-block;
+    background-color: rgba(54, 54, 
+    align-items: center;
+    text-align: center;
+    margin: 30px;
+    border-radius: 20px;
+}
+div{
+    display: block;
+}
+label{
+    display:inline-block;
+    margin: 5px;
+}
+#username,#password{
+    width: 100%;
+    padding: 10px;
+    display: inline-flex;
+}
 
 
 
