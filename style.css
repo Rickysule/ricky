@@ -37,6 +37,18 @@ label{
     padding: 10px;
     display: inline-flex;
 }
+/* boxes */
+box.{
+   padding: 10px;
+   margin: 20px;
+   width: 65px;
+   border: none;
+   outline: none;
+   border-radius: 20px;
+   box-shadow: inset 3px 3px;
+   font-size: medium;
+   background-color: brown;
+}
 
 
 
